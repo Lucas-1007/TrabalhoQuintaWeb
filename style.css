@@ -1,0 +1,107 @@
+.classe1{
+    background-color: rgb(45, 46, 109);
+    padding: 70px;
+    margin: 0px;
+    
+
+}
+.classe2{
+    background-color: rgb(109, 109, 109);
+    padding: 70px;
+    margin-top: 0px; 
+}
+
+.classe3{
+    background-color: rgb(109, 109, 109);
+    padding: 5px;
+    margin-top: 0px;
+}
+.classe4{
+    background-color: rgb(45, 46, 109);
+    padding: 5px;
+    margin-top: 0px;
+}
+
+.classe5{
+    background-color: rgb(0, 0, 0);
+    padding: 5px;
+    margin-top: 0px;
+}
+form {
+    form {
+        text-align: center;
+        margin: 0 auto;
+        width: 50%; /* Ajuste a largura conforme necessário */
+    }
+}
+.input-container {
+    display: flex;
+    justify-content: center;
+}
+
+.my-col{
+    color: rgb(138, 130, 130);
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    padding: 5px;
+    width: 10%;
+    border-radius: 5px;
+    
+}
+
+img, p{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-style: bold;
+}
+
+.retangulo {
+    width: 60px; /* Largura do retângulo */
+    height: 45px; /* Altura do retângulo */
+    background-color: rgb(29, 14, 12); /* Cor de fundo do retângulo */
+    border: 1px solid rgb(239, 184, 16); /* Borda do retângulo */
+    padding: 10px; /* Espaçamento interno do retângulo */
+    text-align: center; /* Alinhamento do texto no centro do retângulo */
+    border-radius: 5px;
+    display: inline-block;
+    box-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+
+
+.esquerda{
+    margin-right: 15px;
+    text-align: left;
+    display: inline-block;
+}
+
+.direita{
+    margin-right: 15px;
+    float: right;
+    display: inline-block;
+}
+
+.video-container {
+    max-width: 480px; /* Largura máxima do vídeo */
+    margin: auto; /* Centraliza horizontalmente */
+}
+
+.responsive-video {
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
